@@ -193,9 +193,7 @@ Start the Software
 
 This will launch an instance of ngscopeclient that is pre-connected to the TS.NET.Engine triggering software.
 
-.. todo::
-
-    Screenshot of ngscopeclient window that has just been connected
-
+.. image:: ./_images/ngscopeclient-connected.webp
+    :alt: Screenshot of ngscopeclient window that has just been connected to TS.NET.Engine
 
 You are now ready to start :ref:`using ThunderScope! <Using-ThunderScope>`
